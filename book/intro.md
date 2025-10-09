@@ -3,4 +3,6 @@
 
 _This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+This book is intended to give an introduction to the topic of surfactant transport in multiphase systems. The target audience is made of mechanical engineering students at the MSc and PhD level.
+
+
