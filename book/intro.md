@@ -6,5 +6,5 @@
 This book is intended to give an introduction to the topic of surfactant transport in multiphase systems. The target audience is made of mechanical engineering students at the MSc and PhD level.
 
 
-In contrast to many introductory material on surfactants, these notes assume no knowledge or delve into aspects of physical chemistry. The focus is diffusive and convective transport and effects of interfacial rheology on fluid mechanics. 
+In contrast to many introductory material on surfactants, these notes assume no knowledge or delve into aspects of physical chemistry. The focus is on diffusive and convective transport of molecular or particulate surfactants by fluid flow, as well as on basic aspects of interfacial rheology relevant to fluid mechanics. The emphasis is on mathematical modelling of surfactants effects, as appropriate for the good background of typical mechanical engineers in mathematical modelling of transport phenomena.
 
