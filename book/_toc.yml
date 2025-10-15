@@ -2,12 +2,12 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Part with some content
+  - caption: Part 1: qualitative aspects
     chapters:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-  - caption: Exercises
+  - caption: Part 2: quantitative aspects
     chapters:
     - file: exercises.md
       sections:
@@ -32,7 +32,7 @@ parts:
       sections:
       - file: exercises/007.md
       - file: extension_exercises/014.md
-  - caption: Miscellaneous
+  - caption: References and Appendix
     chapters:
     - file: references.md
     - file: changelog.md
