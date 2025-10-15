@@ -16,7 +16,7 @@
 
 ## An overview of fluid dynamics phenomena affected by the presence of surfactants
 
-```{figure} ../images/C-3PO_droid.png
+```{figure} ./images/[surfactant general structure_opt.png]
 ---
 height: 150px
 name: directive-fig
